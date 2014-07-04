@@ -13,4 +13,4 @@ HelloStranger is strictly no-nonsense. No registration required .No hidden costs
 
 Future features?
 Right now, the only choices you have are in gender, but in future one can find matches for choices ranging from interests and location to age and language.
-There are some wonderful features that you can do while actually in a conversation: like maybe exchange phone numbers upon mutual consent  and change your choice of whether you want to talk to a boy or a girl  in real time.
+weqweqweqweqwThere are some wonderful features that you can do while actually in a conversation: like maybe exchange phone numbers upon mutual consent  and change your choice of whether you want to talk to a boy or a girl  in real time.
